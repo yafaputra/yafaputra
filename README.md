@@ -143,18 +143,7 @@ const yafaPutra = {
 
 
 
-<!-- All Tech Stack in One View -->
-<details open>
-<summary><b>📊 Complete Tech Stack Visualization</b></summary>
-<br/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,php,react,nextjs,vue,html,css,tailwind,nodejs,express,laravel,mysql,postgres,mongodb,git,github,vscode,postman&theme=dark&perline=10" />
-</p>
-
-</details>
-
-<br/>
 
 <!-- Current Projects Section -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
