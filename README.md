@@ -158,10 +158,6 @@ const yafaPutra = {
 
 <br/>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"  width="500" >
-</div>
-
 <div align="left">
 
 ### 🎓 Website Course Online
@@ -274,76 +270,6 @@ Aplikasi web fullstack untuk platform olahraga yang dibangun dengan Next.js untu
 - ✅ NoSQL database (MongoDB)
 - ✅ Responsive & Fast Performance
 - ✅ Full-stack integration
-
-</div>
-
-<br/>
-
-<!-- Learning Journey Section -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="32px" height="32px">
-  Currently Learning
-</h2>
-
-<br/>
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
-
-<br/><br/>
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
-### 🎯 Backend Focus
-
-</td>
-<td align="center" width="50%">
-
-### 🎨 Frontend Focus
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-- 🔸 Microservices Architecture
-- 🔸 Docker & Kubernetes
-- 🔸 GraphQL APIs
-- 🔸 Redis Caching
-- 🔸 Message Queues (RabbitMQ)
-- 🔸 API Security Best Practices
-
-</td>
-<td valign="top">
-
-- 🔸 Advanced React Patterns
-- 🔸 Server-Side Rendering (SSR)
-- 🔸 State Management (Redux, Zustand)
-- 🔸 Progressive Web Apps (PWA)
-- 🔸 Performance Optimization
-- 🔸 Responsive Design Patterns
-
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr><td align="center" width="100%">
-
-### ☁️ DevOps & Cloud
-
-</td></tr>
-<tr><td align="center">
-
-🔸 AWS Services | 🔸 CI/CD Pipeline | 🔸 GitHub Actions | 🔸 Nginx | 🔸 Linux Server Management
-
-</td></tr>
-</table>
 
 </div>
 
