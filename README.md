@@ -102,10 +102,6 @@ const yafaPutra = {
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,php&theme=dark&perline=4" />
-</p>
-
 <br/>
 
 ### 🎨 Frontend Development
