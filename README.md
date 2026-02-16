@@ -93,7 +93,7 @@ const yafaPutra = {
 
 <br/>
 
-### 👨‍💻 Programming Languages
+<h3 align="center"> 👨‍💻 Programming Languages </h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge" alt="JavaScript"/>
@@ -115,9 +115,6 @@ const yafaPutra = {
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge" alt="Tailwind"/>
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,tailwind&theme=dark&perline=6" />
-</p>
 
 <br/>
 
@@ -129,9 +126,7 @@ const yafaPutra = {
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge" alt="Laravel"/>
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel&theme=dark&perline=3" />
-</p>
+
 
 <br/>
 
@@ -143,15 +138,10 @@ const yafaPutra = {
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge" alt="MongoDB"/>
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark&perline=3" />
-</p>
-
 <br/>
 
 
 
-<br/>
 
 <!-- All Tech Stack in One View -->
 <details open>
