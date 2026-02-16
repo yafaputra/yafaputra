@@ -31,8 +31,8 @@
 
 <!-- Profile Views Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yafaptr&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/yafaptr?label=Followers&style=for-the-badge&color=blue" alt="Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=yafaputra&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/yafaputra?label=Followers&style=for-the-badge&color=blue" alt="Followers"/>
 </p>
 
 </div>
@@ -269,14 +269,14 @@ My personal portfolio showcasing projects, skills, and experience.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yafaptr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yafaptr&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yafaputra&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yafaputra&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yafaptr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=yafaptr&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF" alt="Contribution Graph"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yafaputra&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=yafaputra&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF" alt="Contribution Graph"/>
 
 <!-- Detailed Language Stats -->
-<img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yafaptr&theme=tokyonight" alt="Profile Details"/>
+<img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yafaputra&theme=tokyonight" alt="Profile Details"/>
 
 </div>
 
@@ -286,7 +286,7 @@ My personal portfolio showcasing projects, skills, and experience.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=yafaptr&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=yafaputra&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 
 </div>
 
@@ -297,11 +297,11 @@ My personal portfolio showcasing projects, skills, and experience.
 <div align="center">
 
 <!-- 3D Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yafaptr&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yafaputra&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" width="100%"/>
 
 <!-- Detailed Stats Cards -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yafaptr&theme=tokyonight" alt="Productive Time" width="48%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yafaptr&theme=tokyonight" alt="Repos Per Language" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yafaputra&theme=tokyonight" alt="Productive Time" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yafaputra&theme=tokyonight" alt="Repos Per Language" width="48%"/>
 
 </div>
 
