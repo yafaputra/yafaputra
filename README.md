@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=250&section=header&text=Yafa%20Putra&fontSize=90&fontAlign=50&fontAlignY=40&fontColor=fff&animation=twinkling&desc=Fullstack%20Developer%20%7C%20Software%20Engineer&descSize=25&descAlign=50&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=250&section=header&text=Yafa%20Putra%20&fontSize=90&fontAlign=50&fontAlignY=40&fontColor=fff&animation=twinkling&desc=Fullstack%20Developer%20%7C%20Software%20Engineer&descSize=25&descAlign=50&descAlignY=60" />
 </div>
 
 <p align="center">
@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-  <a href="mailto:yafaputra@example.com">
+  <a href="mailto:yafaputraity@example.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://linkedin.com/in/yafaputra">
+  <a href="https://linkedin.com/in/yafaputraity">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/yafaputra">
@@ -93,30 +93,26 @@ const yafaPutra = {
 
 <br/>
 
-<h3 align="center">👨‍💻 Programming Languages</h3>
+### 👨‍💻 Programming Languages
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,php&theme=dark&perline=4" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge" alt="Python"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge" alt="PHP"/>
 </p>
 
 <br/>
 
-<h3 align="center">🎨 Frontend Development</h3>
+<h3 align="center">🎨 Frontend Development </h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge" alt="Vue.js"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge" alt="Tailwind"/>
 </p>
 
 <p align="center">
@@ -125,12 +121,12 @@ const yafaPutra = {
 
 <br/>
 
-<h3 align="center">⚙️ Backend Development</h3>
+<h3 align="center"> ⚙️ Backend Development </h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge" alt="Laravel"/>
 </p>
 
 <p align="center">
@@ -139,12 +135,12 @@ const yafaPutra = {
 
 <br/>
 
-<h3 align="center">🗄️ Databases</h3>
+<h3 align="center">🗄️ Databases </h3>  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge" alt="MongoDB"/>
 </p>
 
 <p align="center">
@@ -153,24 +149,13 @@ const yafaPutra = {
 
 <br/>
 
-<h3 align="center">🛠️ Tools & Technologies</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark&perline=4" />
-</p>
 
 <br/>
 
 <!-- All Tech Stack in One View -->
 <details open>
-<summary><h3 align="center">📊 Complete Tech Stack Visualization</h3></summary>
+<summary><b>📊 Complete Tech Stack Visualization</b></summary>
 <br/>
 
 <p align="center">
@@ -193,120 +178,50 @@ const yafaPutra = {
 
 <div align="center">
 
-### 🎓 Website Course Online
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="700">
+### 🏋️ Sport-On Backend API
 
-**Proyek Kuliah - Platform pembelajaran online dengan fitur lengkap**
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 
-📅 **Timeline:** Maret 2025 - Juni 2025
+**REST API untuk sistem pemesanan produk olahraga**
 
-<br/>
+🔹 **Tech Stack:**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-**🔹 Tech Stack:**
+🔹 **Features:**
+- ✅ JWT Authentication
+- ✅ CRUD Operations
+- ✅ Payment System
+- ✅ Role-based Access
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+</td>
+<td width="50%" valign="top">
 
-<br/>
+### 🌐 E-Commerce Platform
 
-**🔹 Deskripsi:**
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
 
-Mengembangkan website course online sederhana sebagai tugas kuliah. Website ini memiliki tampilan responsif menggunakan Vue.js dan Tailwind CSS untuk frontend, serta Laravel dan MySQL untuk backend dalam mengelola data pengguna, course, dan konten pembelajaran.
+**Fullstack e-commerce application**
 
-<br/>
+🔹 **Tech Stack:**  
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-**🔹 Features:**
-- ✅ Antarmuka responsif dan user-friendly
-- ✅ Manajemen data pengguna dan course
-- ✅ Sistem autentikasi dasar
-- ✅ Fitur CRUD lengkap
-- ✅ Database management dengan MySQL
+🔹 **Features:**
+- ✅ Product Catalog
+- ✅ Shopping Cart
+- ✅ Payment Gateway
+- ✅ Admin Dashboard
 
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
-### 🏟️ Website Peminjaman Lapangan
-
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="700">
-
-**Proyek Kuliah - Sistem booking lapangan olahraga online**
-
-📅 **Timeline:** Maret 2025 - Juli 2025
-
-<br/>
-
-**🔹 Tech Stack:**
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-<br/>
-
-**🔹 Deskripsi:**
-
-Mengembangkan sistem peminjaman lapangan olahraga berbasis web menggunakan Laravel dan MySQL. Website ini memungkinkan pengguna untuk memesan lapangan, melihat jadwal ketersediaan, dan mengelola data booking dengan mudah.
-
-<br/>
-
-**🔹 Features:**
-- ✅ Sistem pemesanan lapangan online
-- ✅ Manajemen jadwal dan ketersediaan
-- ✅ Dashboard pengelolaan data
-- ✅ Autentikasi dan otorisasi user
-- ✅ Responsive design dengan Tailwind CSS
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
-### 🏋️ Sport-On Web Application
-
-<img src="https://user-images.githubusercontent.com/74038190/229223156-c5ac2f51-4a3b-4a07-8c00-43d96f4e5bdd.gif" width="700">
-
-**Fullstack Project - Platform olahraga dengan teknologi modern**
-
-<br/>
-
-**🔹 Tech Stack:**
-
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-<br/>
-
-**🔹 Deskripsi:**
-
-Aplikasi web fullstack untuk platform olahraga yang dibangun dengan Next.js untuk frontend, Express.js untuk backend API, MongoDB sebagai database, dan styling menggunakan Tailwind CSS.
-
-<br/>
-
-**🔹 Features:**
-- ✅ Modern UI dengan Next.js
-- ✅ RESTful API dengan Express.js
-- ✅ NoSQL database (MongoDB)
-- ✅ Responsive & Fast Performance
-- ✅ Full-stack integration
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -428,16 +343,16 @@ Aplikasi web fullstack untuk platform olahraga yang dibangun dengan Next.js untu
 <br/>
 
 <p align="center">
-  <a href="mailto:yafaputra@example.com">
+  <a href="mailto:yafaputraity@example.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://linkedin.com/in/yafaputra">
+  <a href="https://linkedin.com/in/yafaputraity">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/yafaputra">
+  <a href="https://twitter.com/yafaputraity">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://instagram.com/yafaputra">
+  <a href="https://instagram.com/yafaputraity">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://portfolio-yafaputra.vercel.app">
