@@ -9,7 +9,7 @@
 <!-- Animated Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Fullstack%20Development-brightgreen?style=for-the-badge&logo=code&logoColor=white" alt="Focus"/>
-  <img src="https://img.shields.io/badge/Based%20in-Semarang%2C%20Indonesia-red?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location"/>
+  <img src="https://img.shields.io/badge/Based%20in-Yogyakarta%2C%20Indonesia-red?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location"/>
   <img src="https://img.shields.io/badge/Status-Computer%20Science%20Student-blue?style=for-the-badge&logo=graduationcap&logoColor=white" alt="Status"/>
 </p>
 
@@ -45,7 +45,7 @@
 const yafaPutra = {
   name: "Yafa Nanda Putra",
   role: "Fullstack Developer",
-  location: "Semarang, Indonesia 🇮🇩",
+  location: "Yogyakarta, Indonesia 🇮🇩",
   education: {
     degree: "Computer Science",
     semester: 6,
