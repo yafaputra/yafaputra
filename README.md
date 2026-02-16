@@ -7,16 +7,16 @@
 </p>
 
 <p align="center">
-  <a href="mailto:yafaputra@example.com">
+  <a href="mailto:yafaputra94@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://linkedin.com/in/yafaputra">
+  <a href="https://www.linkedin.com/in/yafa-nanda-putra-60739a28b/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/yafaputra">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://portfolio-yafaputra.vercel.app">
+  <a href="https://yafa-putra.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-667EEA?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
@@ -321,19 +321,19 @@ Aplikasi web fullstack untuk platform olahraga yang dibangun dengan Next.js untu
 <br/>
 
 <p align="center">
-  <a href="mailto:yafaputra@example.com">
+  <a href="mailto:yafaputra94@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://linkedin.com/in/yafaputra">
+  <a href="https://www.linkedin.com/in/yafa-nanda-putra-60739a28b/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/yafaputra">
+  <a href="/#">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
   <a href="https://instagram.com/yafaputra">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://portfolio-yafaputra.vercel.app">
+  <a href="https://yafa-putra.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-667EEA?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
