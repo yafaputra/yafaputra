@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=250&section=header&text=Yafa%20Putra&fontSize=90&fontAlign=50&fontAlignY=40&fontColor=fff&animation=twinkling&desc=Fullstack%20Developer%20%7C%20Software%20Engineer&descSize=25&descAlign=50&descAlignY=60" />
 </div>
 
-<p align="center">
+<p align="center" height="600">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=800&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=Fullstack+Developer+%F0%9F%92%BB;Building+Scalable+Web+Applications+%F0%9F%9A%80;Frontend+%2B+Backend+%2B+Database+Expert+%E2%9A%A1" alt="Typing SVG" />
 </p>
 
@@ -330,7 +330,7 @@ Aplikasi web fullstack untuk platform olahraga yang dibangun dengan Next.js untu
   <a href="/#">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://instagram.com/yafaputra">
+  <a href="https://www.instagram.com/yafa.nanda?igsh=Z3U0OWU5MG91MGQ3">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://yafa-putra.vercel.app/">
