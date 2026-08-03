@@ -42,7 +42,7 @@ Mahasiswa Ilmu Komputer semester 6 yang fokus membangun aplikasi fullstack, samb
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js"/>
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
 
-<br><br>
+
 
 **Backend**
 <br>
@@ -51,7 +51,7 @@ Mahasiswa Ilmu Komputer semester 6 yang fokus membangun aplikasi fullstack, samb
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
 
-<br><br>
+
 
 **Database**
 <br>
@@ -59,7 +59,7 @@ Mahasiswa Ilmu Komputer semester 6 yang fokus membangun aplikasi fullstack, samb
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 
-<br><br>
+
 
 **Tools**
 <br>
