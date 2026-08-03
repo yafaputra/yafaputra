@@ -1,6 +1,6 @@
 <div align="left">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20To%20My%20Profile&fontSize=36&fontColor=fff&animation=fadeIn&fontAlignY=40&fontAlign=15" alt="welcome banner" width="100%"/>
+<img src="banner.png" alt="welcome banner" width="100%"/>
 
 </div>
 
