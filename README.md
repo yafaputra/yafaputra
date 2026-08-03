@@ -129,16 +129,6 @@ Website portofolio pribadi untuk menampilkan proyek dan pengalaman.
 
 <br>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=yafaputra&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
-
-</div>
-
-<br>
-
 ---
 
 <div align="center">
