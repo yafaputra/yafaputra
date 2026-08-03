@@ -70,10 +70,46 @@ Mahasiswa Ilmu Komputer semester 6 yang senang membangun aplikasi web dari nol �
 
 ## 🚀 Proyek Unggulan
 
-- **🎓 Online Course Platform** — Platform e-learning dengan manajemen kursus, dibangun dengan Vue.js, Laravel, MySQL.
-- **🏟️ Sports Field Booking System** — Sistem booking lapangan real-time menggunakan Laravel dan MySQL.
-- **🏋️ Sport-On Application** — Aplikasi olahraga dengan Next.js, Express.js, dan MongoDB.
-- **💼 Personal Portfolio** — Website portofolio pribadi: [yafa-putra.vercel.app](https://yafa-putra.vercel.app)
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 Online Course Platform
+Platform e-learning dengan manajemen kursus, pengguna, dan dashboard admin.
+
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+
+</td>
+<td width="50%" valign="top">
+
+### 🏟️ Sports Field Booking System
+Sistem booking lapangan olahraga secara real-time dengan manajemen jadwal.
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏋️ Sport-On Application
+Aplikasi olahraga fullstack dengan REST API dan performa tinggi.
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+
+</td>
+<td width="50%" valign="top">
+
+### 💼 Personal Portfolio
+Website portofolio pribadi untuk menampilkan proyek dan pengalaman.
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+
+🔗 [yafa-putra.vercel.app](https://yafa-putra.vercel.app)
+
+</td>
+</tr>
+</table>
 
 ---
 
