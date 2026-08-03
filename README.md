@@ -17,11 +17,13 @@
 
 ## 👨‍💻 Tentang Saya
 
-Mahasiswa Ilmu Komputer semester 6 yang fokus membangun aplikasi fullstack, sambil belajar microservices dan cloud technology.
+Mahasiswa Ilmu Komputer semester 6 yang senang membangun aplikasi web dari nol — mulai dari merancang tampilan, menyusun API, sampai menghubungkannya ke database. Tertarik mendalami arsitektur microservices dan cloud agar aplikasi yang dibuat tidak cuma jalan, tapi juga siap dipakai secara nyata.
 
-- 🔭 Sedang mengerjakan proyek fullstack
-- 🌱 Sedang belajar Docker, Kubernetes, dan AWS
-- 💬 Terbuka untuk freelance, magang, dan kolaborasi open source
+- 🎯 **Fokus saat ini:** membangun aplikasi fullstack yang rapi dan scalable
+- 🔭 **Sedang dikerjakan:** proyek-proyek fullstack dengan stack modern
+- 🌱 **Sedang dipelajari:** Docker, Kubernetes, dan AWS
+- 🤝 **Terbuka untuk:** freelance, magang, dan kolaborasi open source
+- ⚡ **Fun fact:** lebih suka debugging sambil dengar musik daripada diem di ruangan sepi
 
 ---
 
