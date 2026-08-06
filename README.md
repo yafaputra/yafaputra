@@ -1,9 +1,6 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9CCA,100:5865F2&height=200&section=header&text=Yafa%20Nanda%20Putra&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20Software%20Engineering%20Student&descAlignY=58&descSize=16&descColor=e2e8f0" width="100%"/>
-
-### 🚀 Transforming ideas into robust, scalable, and high-performance web applications.
-
 <p align="center">
   <a href="https://linkedin.com/in/yafa-putra" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
